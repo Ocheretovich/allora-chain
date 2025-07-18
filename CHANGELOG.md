@@ -77,6 +77,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+* [#842](https://github.com/allora-network/allora-chain/pull/842) Cover against all listening coefficients being zero
+
 ### Security
 
 ### API Breaking Changes
